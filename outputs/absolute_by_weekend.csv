@@ -1,0 +1,5 @@
+weekend,absolute_cluster,days,eligible_days,percent
+False,0,1094,1710,64.0
+False,1,616,1710,36.0
+True,0,436,698,62.5
+True,1,262,698,37.5

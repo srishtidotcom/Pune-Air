@@ -1,0 +1,37 @@
+{
+  "time_zone": "Asia/Kolkata",
+  "window_local": [
+    "2024-01-01 00:00:00+05:30",
+    "2025-01-01 00:00:00+05:30"
+  ],
+  "stations": [
+    "Alandi, Pune - IITM",
+    "Bhosari, Pune - IITM",
+    "Bhumkar Nagar, Pune - IITM",
+    "Hadapsar, Pune - IITM",
+    "Karve Road, Pune - MPCB",
+    "Katraj Dairy, Pune - MPCB",
+    "Mhada Colony, Pune - IITM",
+    "Panchawati_Pashan, Pune - IITM",
+    "Revenue Colony-Shivajinagar, Pune - IITM",
+    "Savitribai Phule Pune University, Pune - MPCB",
+    "Transport Nagar-Nigdi, Pune - IITM"
+  ],
+  "eligible_station_days": 2408,
+  "first_eligible_date": "2024-01-02",
+  "last_eligible_date": "2024-12-31",
+  "nearly_flat_days": 91,
+  "backend": "scikit-learn",
+  "models": {
+    "absolute": {
+      "method": "kmeans",
+      "k": 2,
+      "silhouette": 0.4549288826486751
+    },
+    "shape": {
+      "method": "kmeans",
+      "k": 2,
+      "silhouette": 0.1992366685073964
+    }
+  }
+}

@@ -1,0 +1,23 @@
+station,absolute_cluster,days,eligible_days,percent
+"Alandi, Pune - IITM",0,121,204,59.3
+"Alandi, Pune - IITM",1,83,204,40.7
+"Bhosari, Pune - IITM",0,120,159,75.5
+"Bhosari, Pune - IITM",1,39,159,24.5
+"Bhumkar Nagar, Pune - IITM",0,114,177,64.4
+"Bhumkar Nagar, Pune - IITM",1,63,177,35.6
+"Hadapsar, Pune - IITM",0,66,99,66.7
+"Hadapsar, Pune - IITM",1,33,99,33.3
+"Karve Road, Pune - MPCB",0,166,274,60.6
+"Karve Road, Pune - MPCB",1,108,274,39.4
+"Katraj Dairy, Pune - MPCB",0,134,226,59.3
+"Katraj Dairy, Pune - MPCB",1,92,226,40.7
+"Mhada Colony, Pune - IITM",0,178,300,59.3
+"Mhada Colony, Pune - IITM",1,122,300,40.7
+"Panchawati_Pashan, Pune - IITM",0,114,115,99.1
+"Panchawati_Pashan, Pune - IITM",1,1,115,0.9
+"Revenue Colony-Shivajinagar, Pune - IITM",0,191,320,59.7
+"Revenue Colony-Shivajinagar, Pune - IITM",1,129,320,40.3
+"Savitribai Phule Pune University, Pune - MPCB",0,162,283,57.2
+"Savitribai Phule Pune University, Pune - MPCB",1,121,283,42.8
+"Transport Nagar-Nigdi, Pune - IITM",0,164,251,65.3
+"Transport Nagar-Nigdi, Pune - IITM",1,87,251,34.7

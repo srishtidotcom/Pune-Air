@@ -1,0 +1,9 @@
+method,k,silhouette,smallest_cluster,largest_cluster,viable
+kmeans,2,0.4549288826486751,878,1530,True
+kmeans,3,0.39519247338998503,267,1153,True
+kmeans,4,0.3922318274369279,4,1100,False
+kmeans,5,0.33319468928641843,4,881,False
+agglomerative,2,0.4310655983196756,1065,1343,True
+agglomerative,3,0.37425674639682066,297,1343,True
+agglomerative,4,0.37869835448146977,5,1343,False
+agglomerative,5,0.2709086166270669,5,859,False

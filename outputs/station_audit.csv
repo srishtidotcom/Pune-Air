@@ -1,0 +1,12 @@
+file,station,rows,first_local,last_local,bad_timestamp,duplicate_timestamps,off_15_minute_grid,pm_missing,pm_nonnumeric,pm_negative,pm_nonfinite,valid_pm_all,rows_local_2024,valid_pm_local_2024,eligible_2024_days,months_with_10_days,included,decision
+pune-alandi-iitm-2024-25.csv,"Alandi, Pune - IITM",24885,2024-01-01 05:30:00+05:30,2025-01-28 16:30:00+05:30,1,0,0,843,0,0,0,24042,22569,21750,204,9,True,included
+pune-bhosari-iitm-2024-25.csv,"Bhosari, Pune - IITM",37600,2024-01-01 05:30:00+05:30,2025-12-12 18:00:00+05:30,1,0,0,1422,0,0,0,36178,18385,18190,159,7,True,included
+pune-bhumkar-nagar-iitm-2024-25.csv,"Bhumkar Nagar, Pune - IITM",70177,2024-01-01 05:30:00+05:30,2026-01-01 05:15:00+05:30,1,0,0,20732,0,0,0,49445,35114,18290,177,7,True,included
+pune-hadapsar-iitm-2024-25.csv,"Hadapsar, Pune - IITM",29797,2024-05-20 15:30:00+05:30,2026-01-01 05:00:00+05:30,1,0,0,2146,0,0,0,27651,10996,10268,99,5,True,included
+pune-karve-road-mpcb-2024-25.csv,"Karve Road, Pune - MPCB",70177,2024-01-01 05:30:00+05:30,2026-01-01 05:15:00+05:30,1,0,0,27258,0,0,0,42919,35114,29983,274,12,True,included
+pune-katraj-dairy-mpcb-2024-25.csv,"Katraj Dairy, Pune - MPCB",70177,2024-01-01 05:30:00+05:30,2026-01-01 05:15:00+05:30,1,0,0,16690,0,0,0,53487,35114,25772,226,11,True,included
+pune-mhada-colony-iitm-2024-25.csv,"Mhada Colony, Pune - IITM",63729,2024-01-01 05:30:00+05:30,2026-01-01 05:00:00+05:30,1,0,0,1472,0,0,0,62257,31777,30726,300,11,True,included
+pune-panchawati_pashan-iitm-2024-25.csv,"Panchawati_Pashan, Pune - IITM",70177,2024-01-01 05:30:00+05:30,2026-01-01 05:15:00+05:30,1,0,0,27249,0,0,0,42928,35114,11629,115,4,True,included
+pune-revenue-colony-shivajinagar-iitm-2024-25.csv,"Revenue Colony-Shivajinagar, Pune - IITM",62594,2024-01-01 14:00:00+05:30,2026-01-01 04:45:00+05:30,1,0,0,3975,0,0,0,58619,33199,32792,320,12,True,included
+pune-savitribai-phule-pune-university-mpcb-2024-25.csv,"Savitribai Phule Pune University, Pune - MPCB",70177,2024-01-01 05:30:00+05:30,2026-01-01 05:15:00+05:30,1,0,0,7832,0,0,0,62345,35114,31655,283,12,True,included
+pune-transport-nagar-nigdi-iitm-2024-25.csv,"Transport Nagar-Nigdi, Pune - IITM",57185,2024-01-01 05:30:00+05:30,2026-01-01 05:00:00+05:30,1,0,0,1349,0,0,0,55836,27807,27126,251,12,True,included

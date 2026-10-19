@@ -1,0 +1,45 @@
+station,weekend,shape_cluster,days,eligible_days,percent
+"Alandi, Pune - IITM",False,0,52,149,34.9
+"Alandi, Pune - IITM",False,1,97,149,65.1
+"Alandi, Pune - IITM",True,0,15,55,27.3
+"Alandi, Pune - IITM",True,1,40,55,72.7
+"Bhosari, Pune - IITM",False,0,24,109,22.0
+"Bhosari, Pune - IITM",False,1,85,109,78.0
+"Bhosari, Pune - IITM",True,0,16,50,32.0
+"Bhosari, Pune - IITM",True,1,34,50,68.0
+"Bhumkar Nagar, Pune - IITM",False,0,38,125,30.4
+"Bhumkar Nagar, Pune - IITM",False,1,87,125,69.6
+"Bhumkar Nagar, Pune - IITM",True,0,20,52,38.5
+"Bhumkar Nagar, Pune - IITM",True,1,32,52,61.5
+"Hadapsar, Pune - IITM",False,0,52,67,77.6
+"Hadapsar, Pune - IITM",False,1,15,67,22.4
+"Hadapsar, Pune - IITM",True,0,20,32,62.5
+"Hadapsar, Pune - IITM",True,1,12,32,37.5
+"Karve Road, Pune - MPCB",False,0,141,193,73.1
+"Karve Road, Pune - MPCB",False,1,52,193,26.9
+"Karve Road, Pune - MPCB",True,0,69,81,85.2
+"Karve Road, Pune - MPCB",True,1,12,81,14.8
+"Katraj Dairy, Pune - MPCB",False,0,68,165,41.2
+"Katraj Dairy, Pune - MPCB",False,1,97,165,58.8
+"Katraj Dairy, Pune - MPCB",True,0,27,61,44.3
+"Katraj Dairy, Pune - MPCB",True,1,34,61,55.7
+"Mhada Colony, Pune - IITM",False,0,59,214,27.6
+"Mhada Colony, Pune - IITM",False,1,155,214,72.4
+"Mhada Colony, Pune - IITM",True,0,24,86,27.9
+"Mhada Colony, Pune - IITM",True,1,62,86,72.1
+"Panchawati_Pashan, Pune - IITM",False,0,50,82,61.0
+"Panchawati_Pashan, Pune - IITM",False,1,32,82,39.0
+"Panchawati_Pashan, Pune - IITM",True,0,20,33,60.6
+"Panchawati_Pashan, Pune - IITM",True,1,13,33,39.4
+"Revenue Colony-Shivajinagar, Pune - IITM",False,0,124,230,53.9
+"Revenue Colony-Shivajinagar, Pune - IITM",False,1,106,230,46.1
+"Revenue Colony-Shivajinagar, Pune - IITM",True,0,45,90,50.0
+"Revenue Colony-Shivajinagar, Pune - IITM",True,1,45,90,50.0
+"Savitribai Phule Pune University, Pune - MPCB",False,0,91,204,44.6
+"Savitribai Phule Pune University, Pune - MPCB",False,1,113,204,55.4
+"Savitribai Phule Pune University, Pune - MPCB",True,0,31,79,39.2
+"Savitribai Phule Pune University, Pune - MPCB",True,1,48,79,60.8
+"Transport Nagar-Nigdi, Pune - IITM",False,0,63,172,36.6
+"Transport Nagar-Nigdi, Pune - IITM",False,1,109,172,63.4
+"Transport Nagar-Nigdi, Pune - IITM",True,0,32,79,40.5
+"Transport Nagar-Nigdi, Pune - IITM",True,1,47,79,59.5

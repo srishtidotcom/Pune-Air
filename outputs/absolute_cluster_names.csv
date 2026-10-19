@@ -1,0 +1,3 @@
+cluster,name,eligible_days,median_daily_mean,peak_hour,curve_min,curve_max
+0,"afternoon high, lower level",1530,22.209999999999994,14,17.820416666666667,25.58
+1,"afternoon high, higher level",878,56.310954861111114,14,40.6475,72.42875

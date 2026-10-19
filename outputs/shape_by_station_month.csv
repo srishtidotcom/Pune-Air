@@ -1,0 +1,204 @@
+station,month,shape_cluster,days,eligible_days,percent
+"Alandi, Pune - IITM",1,0,2,25,8.0
+"Alandi, Pune - IITM",1,1,23,25,92.0
+"Alandi, Pune - IITM",2,1,13,13,100.0
+"Alandi, Pune - IITM",4,1,3,3,100.0
+"Alandi, Pune - IITM",5,0,19,27,70.4
+"Alandi, Pune - IITM",5,1,8,27,29.6
+"Alandi, Pune - IITM",6,0,12,24,50.0
+"Alandi, Pune - IITM",6,1,12,24,50.0
+"Alandi, Pune - IITM",7,0,15,19,78.9
+"Alandi, Pune - IITM",7,1,4,19,21.1
+"Alandi, Pune - IITM",9,0,8,13,61.5
+"Alandi, Pune - IITM",9,1,5,13,38.5
+"Alandi, Pune - IITM",10,0,4,29,13.8
+"Alandi, Pune - IITM",10,1,25,29,86.2
+"Alandi, Pune - IITM",11,0,2,26,7.7
+"Alandi, Pune - IITM",11,1,24,26,92.3
+"Alandi, Pune - IITM",12,0,5,25,20.0
+"Alandi, Pune - IITM",12,1,20,25,80.0
+"Bhosari, Pune - IITM",1,0,1,23,4.3
+"Bhosari, Pune - IITM",1,1,22,23,95.7
+"Bhosari, Pune - IITM",2,1,22,22,100.0
+"Bhosari, Pune - IITM",3,1,30,30,100.0
+"Bhosari, Pune - IITM",4,0,1,20,5.0
+"Bhosari, Pune - IITM",4,1,19,20,95.0
+"Bhosari, Pune - IITM",5,0,8,19,42.1
+"Bhosari, Pune - IITM",5,1,11,19,57.9
+"Bhosari, Pune - IITM",6,0,17,22,77.3
+"Bhosari, Pune - IITM",6,1,5,22,22.7
+"Bhosari, Pune - IITM",7,0,13,23,56.5
+"Bhosari, Pune - IITM",7,1,10,23,43.5
+"Bhumkar Nagar, Pune - IITM",6,0,3,16,18.8
+"Bhumkar Nagar, Pune - IITM",6,1,13,16,81.2
+"Bhumkar Nagar, Pune - IITM",7,0,12,30,40.0
+"Bhumkar Nagar, Pune - IITM",7,1,18,30,60.0
+"Bhumkar Nagar, Pune - IITM",8,0,8,27,29.6
+"Bhumkar Nagar, Pune - IITM",8,1,19,27,70.4
+"Bhumkar Nagar, Pune - IITM",9,0,6,22,27.3
+"Bhumkar Nagar, Pune - IITM",9,1,16,22,72.7
+"Bhumkar Nagar, Pune - IITM",10,0,10,25,40.0
+"Bhumkar Nagar, Pune - IITM",10,1,15,25,60.0
+"Bhumkar Nagar, Pune - IITM",11,0,4,28,14.3
+"Bhumkar Nagar, Pune - IITM",11,1,24,28,85.7
+"Bhumkar Nagar, Pune - IITM",12,0,15,29,51.7
+"Bhumkar Nagar, Pune - IITM",12,1,14,29,48.3
+"Hadapsar, Pune - IITM",5,0,10,10,100.0
+"Hadapsar, Pune - IITM",6,0,26,26,100.0
+"Hadapsar, Pune - IITM",7,0,29,29,100.0
+"Hadapsar, Pune - IITM",10,0,1,3,33.3
+"Hadapsar, Pune - IITM",10,1,2,3,66.7
+"Hadapsar, Pune - IITM",11,0,2,19,10.5
+"Hadapsar, Pune - IITM",11,1,17,19,89.5
+"Hadapsar, Pune - IITM",12,0,4,12,33.3
+"Hadapsar, Pune - IITM",12,1,8,12,66.7
+"Karve Road, Pune - MPCB",1,0,21,28,75.0
+"Karve Road, Pune - MPCB",1,1,7,28,25.0
+"Karve Road, Pune - MPCB",2,0,14,21,66.7
+"Karve Road, Pune - MPCB",2,1,7,21,33.3
+"Karve Road, Pune - MPCB",3,0,19,24,79.2
+"Karve Road, Pune - MPCB",3,1,5,24,20.8
+"Karve Road, Pune - MPCB",4,0,22,26,84.6
+"Karve Road, Pune - MPCB",4,1,4,26,15.4
+"Karve Road, Pune - MPCB",5,0,21,27,77.8
+"Karve Road, Pune - MPCB",5,1,6,27,22.2
+"Karve Road, Pune - MPCB",6,0,11,14,78.6
+"Karve Road, Pune - MPCB",6,1,3,14,21.4
+"Karve Road, Pune - MPCB",7,0,12,14,85.7
+"Karve Road, Pune - MPCB",7,1,2,14,14.3
+"Karve Road, Pune - MPCB",8,0,18,21,85.7
+"Karve Road, Pune - MPCB",8,1,3,21,14.3
+"Karve Road, Pune - MPCB",9,0,22,26,84.6
+"Karve Road, Pune - MPCB",9,1,4,26,15.4
+"Karve Road, Pune - MPCB",10,0,17,23,73.9
+"Karve Road, Pune - MPCB",10,1,6,23,26.1
+"Karve Road, Pune - MPCB",11,0,17,27,63.0
+"Karve Road, Pune - MPCB",11,1,10,27,37.0
+"Karve Road, Pune - MPCB",12,0,16,23,69.6
+"Karve Road, Pune - MPCB",12,1,7,23,30.4
+"Katraj Dairy, Pune - MPCB",1,0,2,28,7.1
+"Katraj Dairy, Pune - MPCB",1,1,26,28,92.9
+"Katraj Dairy, Pune - MPCB",2,0,1,26,3.8
+"Katraj Dairy, Pune - MPCB",2,1,25,26,96.2
+"Katraj Dairy, Pune - MPCB",3,0,9,25,36.0
+"Katraj Dairy, Pune - MPCB",3,1,16,25,64.0
+"Katraj Dairy, Pune - MPCB",4,0,5,19,26.3
+"Katraj Dairy, Pune - MPCB",4,1,14,19,73.7
+"Katraj Dairy, Pune - MPCB",5,0,9,13,69.2
+"Katraj Dairy, Pune - MPCB",5,1,4,13,30.8
+"Katraj Dairy, Pune - MPCB",6,0,4,4,100.0
+"Katraj Dairy, Pune - MPCB",7,0,14,14,100.0
+"Katraj Dairy, Pune - MPCB",8,0,24,24,100.0
+"Katraj Dairy, Pune - MPCB",9,0,11,16,68.8
+"Katraj Dairy, Pune - MPCB",9,1,5,16,31.2
+"Katraj Dairy, Pune - MPCB",10,0,3,11,27.3
+"Katraj Dairy, Pune - MPCB",10,1,8,11,72.7
+"Katraj Dairy, Pune - MPCB",11,0,6,20,30.0
+"Katraj Dairy, Pune - MPCB",11,1,14,20,70.0
+"Katraj Dairy, Pune - MPCB",12,0,7,26,26.9
+"Katraj Dairy, Pune - MPCB",12,1,19,26,73.1
+"Mhada Colony, Pune - IITM",1,1,26,26,100.0
+"Mhada Colony, Pune - IITM",2,1,28,28,100.0
+"Mhada Colony, Pune - IITM",3,0,1,28,3.6
+"Mhada Colony, Pune - IITM",3,1,27,28,96.4
+"Mhada Colony, Pune - IITM",4,0,1,28,3.6
+"Mhada Colony, Pune - IITM",4,1,27,28,96.4
+"Mhada Colony, Pune - IITM",5,0,11,28,39.3
+"Mhada Colony, Pune - IITM",5,1,17,28,60.7
+"Mhada Colony, Pune - IITM",6,0,12,25,48.0
+"Mhada Colony, Pune - IITM",6,1,13,25,52.0
+"Mhada Colony, Pune - IITM",7,0,18,29,62.1
+"Mhada Colony, Pune - IITM",7,1,11,29,37.9
+"Mhada Colony, Pune - IITM",8,0,5,7,71.4
+"Mhada Colony, Pune - IITM",8,1,2,7,28.6
+"Mhada Colony, Pune - IITM",9,0,13,16,81.2
+"Mhada Colony, Pune - IITM",9,1,3,16,18.8
+"Mhada Colony, Pune - IITM",10,0,8,27,29.6
+"Mhada Colony, Pune - IITM",10,1,19,27,70.4
+"Mhada Colony, Pune - IITM",11,0,9,28,32.1
+"Mhada Colony, Pune - IITM",11,1,19,28,67.9
+"Mhada Colony, Pune - IITM",12,0,5,30,16.7
+"Mhada Colony, Pune - IITM",12,1,25,30,83.3
+"Panchawati_Pashan, Pune - IITM",7,0,5,7,71.4
+"Panchawati_Pashan, Pune - IITM",7,1,2,7,28.6
+"Panchawati_Pashan, Pune - IITM",8,0,18,23,78.3
+"Panchawati_Pashan, Pune - IITM",8,1,5,23,21.7
+"Panchawati_Pashan, Pune - IITM",9,0,27,29,93.1
+"Panchawati_Pashan, Pune - IITM",9,1,2,29,6.9
+"Panchawati_Pashan, Pune - IITM",10,0,5,9,55.6
+"Panchawati_Pashan, Pune - IITM",10,1,4,9,44.4
+"Panchawati_Pashan, Pune - IITM",11,0,4,17,23.5
+"Panchawati_Pashan, Pune - IITM",11,1,13,17,76.5
+"Panchawati_Pashan, Pune - IITM",12,0,11,30,36.7
+"Panchawati_Pashan, Pune - IITM",12,1,19,30,63.3
+"Revenue Colony-Shivajinagar, Pune - IITM",1,0,8,23,34.8
+"Revenue Colony-Shivajinagar, Pune - IITM",1,1,15,23,65.2
+"Revenue Colony-Shivajinagar, Pune - IITM",2,0,11,28,39.3
+"Revenue Colony-Shivajinagar, Pune - IITM",2,1,17,28,60.7
+"Revenue Colony-Shivajinagar, Pune - IITM",3,0,11,31,35.5
+"Revenue Colony-Shivajinagar, Pune - IITM",3,1,20,31,64.5
+"Revenue Colony-Shivajinagar, Pune - IITM",4,0,6,26,23.1
+"Revenue Colony-Shivajinagar, Pune - IITM",4,1,20,26,76.9
+"Revenue Colony-Shivajinagar, Pune - IITM",5,0,22,25,88.0
+"Revenue Colony-Shivajinagar, Pune - IITM",5,1,3,25,12.0
+"Revenue Colony-Shivajinagar, Pune - IITM",6,0,22,25,88.0
+"Revenue Colony-Shivajinagar, Pune - IITM",6,1,3,25,12.0
+"Revenue Colony-Shivajinagar, Pune - IITM",7,0,18,26,69.2
+"Revenue Colony-Shivajinagar, Pune - IITM",7,1,8,26,30.8
+"Revenue Colony-Shivajinagar, Pune - IITM",8,0,22,31,71.0
+"Revenue Colony-Shivajinagar, Pune - IITM",8,1,9,31,29.0
+"Revenue Colony-Shivajinagar, Pune - IITM",9,0,19,27,70.4
+"Revenue Colony-Shivajinagar, Pune - IITM",9,1,8,27,29.6
+"Revenue Colony-Shivajinagar, Pune - IITM",10,0,18,24,75.0
+"Revenue Colony-Shivajinagar, Pune - IITM",10,1,6,24,25.0
+"Revenue Colony-Shivajinagar, Pune - IITM",11,0,6,26,23.1
+"Revenue Colony-Shivajinagar, Pune - IITM",11,1,20,26,76.9
+"Revenue Colony-Shivajinagar, Pune - IITM",12,0,6,28,21.4
+"Revenue Colony-Shivajinagar, Pune - IITM",12,1,22,28,78.6
+"Savitribai Phule Pune University, Pune - MPCB",1,0,2,21,9.5
+"Savitribai Phule Pune University, Pune - MPCB",1,1,19,21,90.5
+"Savitribai Phule Pune University, Pune - MPCB",2,0,1,24,4.2
+"Savitribai Phule Pune University, Pune - MPCB",2,1,23,24,95.8
+"Savitribai Phule Pune University, Pune - MPCB",3,0,5,30,16.7
+"Savitribai Phule Pune University, Pune - MPCB",3,1,25,30,83.3
+"Savitribai Phule Pune University, Pune - MPCB",4,0,5,18,27.8
+"Savitribai Phule Pune University, Pune - MPCB",4,1,13,18,72.2
+"Savitribai Phule Pune University, Pune - MPCB",5,0,16,22,72.7
+"Savitribai Phule Pune University, Pune - MPCB",5,1,6,22,27.3
+"Savitribai Phule Pune University, Pune - MPCB",6,0,21,25,84.0
+"Savitribai Phule Pune University, Pune - MPCB",6,1,4,25,16.0
+"Savitribai Phule Pune University, Pune - MPCB",7,0,19,29,65.5
+"Savitribai Phule Pune University, Pune - MPCB",7,1,10,29,34.5
+"Savitribai Phule Pune University, Pune - MPCB",8,0,19,25,76.0
+"Savitribai Phule Pune University, Pune - MPCB",8,1,6,25,24.0
+"Savitribai Phule Pune University, Pune - MPCB",9,0,19,23,82.6
+"Savitribai Phule Pune University, Pune - MPCB",9,1,4,23,17.4
+"Savitribai Phule Pune University, Pune - MPCB",10,0,9,25,36.0
+"Savitribai Phule Pune University, Pune - MPCB",10,1,16,25,64.0
+"Savitribai Phule Pune University, Pune - MPCB",11,1,22,22,100.0
+"Savitribai Phule Pune University, Pune - MPCB",12,0,6,19,31.6
+"Savitribai Phule Pune University, Pune - MPCB",12,1,13,19,68.4
+"Transport Nagar-Nigdi, Pune - IITM",1,0,1,27,3.7
+"Transport Nagar-Nigdi, Pune - IITM",1,1,26,27,96.3
+"Transport Nagar-Nigdi, Pune - IITM",2,0,1,26,3.8
+"Transport Nagar-Nigdi, Pune - IITM",2,1,25,26,96.2
+"Transport Nagar-Nigdi, Pune - IITM",3,0,9,28,32.1
+"Transport Nagar-Nigdi, Pune - IITM",3,1,19,28,67.9
+"Transport Nagar-Nigdi, Pune - IITM",4,0,7,26,26.9
+"Transport Nagar-Nigdi, Pune - IITM",4,1,19,26,73.1
+"Transport Nagar-Nigdi, Pune - IITM",5,0,18,23,78.3
+"Transport Nagar-Nigdi, Pune - IITM",5,1,5,23,21.7
+"Transport Nagar-Nigdi, Pune - IITM",6,0,8,10,80.0
+"Transport Nagar-Nigdi, Pune - IITM",6,1,2,10,20.0
+"Transport Nagar-Nigdi, Pune - IITM",7,0,13,18,72.2
+"Transport Nagar-Nigdi, Pune - IITM",7,1,5,18,27.8
+"Transport Nagar-Nigdi, Pune - IITM",8,0,15,19,78.9
+"Transport Nagar-Nigdi, Pune - IITM",8,1,4,19,21.1
+"Transport Nagar-Nigdi, Pune - IITM",9,0,9,10,90.0
+"Transport Nagar-Nigdi, Pune - IITM",9,1,1,10,10.0
+"Transport Nagar-Nigdi, Pune - IITM",10,0,8,26,30.8
+"Transport Nagar-Nigdi, Pune - IITM",10,1,18,26,69.2
+"Transport Nagar-Nigdi, Pune - IITM",11,0,2,17,11.8
+"Transport Nagar-Nigdi, Pune - IITM",11,1,15,17,88.2
+"Transport Nagar-Nigdi, Pune - IITM",12,0,4,21,19.0
+"Transport Nagar-Nigdi, Pune - IITM",12,1,17,21,81.0
