@@ -1,0 +1,12 @@
+station,latitude,longitude,source
+"Alandi, Pune - IITM",18.675076,73.892743,https://huggingface.co/datasets/Zeel/C1/blob/main/station_data.csv
+"Bhosari, Pune - IITM",18.640051,73.848956,https://huggingface.co/datasets/Zeel/C1/blob/main/station_data.csv
+"Bhumkar Nagar, Pune - IITM",18.605770,73.749976,https://huggingface.co/datasets/Zeel/C1/blob/main/station_data.csv
+"Hadapsar, Pune - IITM",18.501793,73.927532,https://www.greentribunal.gov.in/sites/default/files/news_updates/Affidavit%20in%20Reply%20by%20R-1%20in%20OA%20No.48-2025%20%28page%20nos.245-352%29.pdf
+"Karve Road, Pune - MPCB",18.51256536,73.83967945,https://www.greentribunal.gov.in/sites/default/files/news_updates/Affidavit%20in%20Reply%20by%20R-1%20in%20OA%20No.48-2025%20%28page%20nos.245-352%29.pdf
+"Katraj Dairy, Pune - MPCB",18.454450,73.854155,https://www.greentribunal.gov.in/sites/default/files/news_updates/Affidavit%20in%20Reply%20by%20R-1%20in%20OA%20No.48-2025%20%28page%20nos.245-352%29.pdf
+"Mhada Colony, Pune - IITM",18.573040,73.927715,https://huggingface.co/datasets/Zeel/C1/blob/main/station_data.csv
+"Panchawati_Pashan, Pune - IITM",18.536457,73.805454,https://www.greentribunal.gov.in/sites/default/files/news_updates/Affidavit%20in%20Reply%20by%20R-1%20in%20OA%20No.48-2025%20%28page%20nos.245-352%29.pdf
+"Revenue Colony-Shivajinagar, Pune - IITM",18.52974978,73.84968215,https://www.greentribunal.gov.in/sites/default/files/news_updates/Affidavit%20in%20Reply%20by%20R-1%20in%20OA%20No.48-2025%20%28page%20nos.245-352%29.pdf
+"Savitribai Phule Pune University, Pune - MPCB",18.547056,73.826908,https://www.greentribunal.gov.in/sites/default/files/news_updates/Affidavit%20in%20Reply%20by%20R-1%20in%20OA%20No.48-2025%20%28page%20nos.245-352%29.pdf
+"Transport Nagar-Nigdi, Pune - IITM",18.664282,73.763966,https://huggingface.co/datasets/Zeel/C1/blob/main/station_data.csv
