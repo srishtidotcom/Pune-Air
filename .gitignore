@@ -2,3 +2,5 @@ outputs/
 .venv/
 __pycache__/
 .pytest_cache/
+.agents/skills/
+.claude/skills/
